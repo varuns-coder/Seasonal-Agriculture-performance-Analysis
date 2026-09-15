@@ -98,6 +98,23 @@ Python-based exploratory data analysis and visualization techniques.
 - No duplicate records were identified.
 - Missing values were present in `Rainfall_mm`, `Soil_Moisture_pct`, and `Yield_Tonnes_Ha`.
 
+## 📊 Visualizations
+
+### Seasonal Yield
+![Seasonal Yield](visualizations/seasonal_yield.png)
+
+### Seasonal Profit
+![Seasonal Profit](visualizations/seasonal_profit.png)
+
+### Crop Yield Analysis
+![Crop Yield](visualizations/crop_yield.png)
+
+### Irrigation Yield Analysis
+![Irrigation Yield](visualizations/irrigation_yield.png)
+
+### Rainfall vs Yield
+![Rainfall Yield](visualizations/rainfall_yield.png)
+
 
 ## 📁 Project Structure
 
