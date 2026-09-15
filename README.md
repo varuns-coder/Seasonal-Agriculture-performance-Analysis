@@ -130,7 +130,13 @@ Seasonal-Agriculture-performance-Analysis/
 ├── reports/
 │   ├── Major Project...
 │   └── VOIS_Major_Project...
-│
+│├── visualizations/
+│   ├── crop_yield.png
+│   ├── irrigation_yield.png
+│   ├── rainfall_yield.png
+│   ├── seasonal_profit.png
+│   └── seasonal_yield.png
+
 ├── .gitignore
 ├── README.md
 └── requirements.txt
