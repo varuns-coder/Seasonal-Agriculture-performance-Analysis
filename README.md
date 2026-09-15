@@ -70,19 +70,34 @@ Python-based exploratory data analysis and visualization techniques.
 - Yield + Profit + Season
 - Correlation analysis
 
-## 🔍 Key Insights
+## 🔍 Key Findings
 
-The analysis investigates:
+### Seasonal Performance
 
-- Seasonal differences in agricultural yield
-- Seasonal profitability patterns
-- Crop performance across seasons
-- Relationship between rainfall and yield
-- Impact of irrigation methods on yield
-- Relationship between yield and profit
-- Patterns in agricultural resource usage
+- **Kharif** recorded the highest average yield at **5.64 tonnes/ha**.
+- Kharif also generated the highest average profit of approximately **₹178,914.65** per farm.
+- **Zaid** recorded the lowest average yield at **4.67 tonnes/ha**.
+- Zaid had a negative average profit of approximately **₹24,804.82**.
+- Kharif received the highest average rainfall at approximately **852.08 mm**.
 
-> Detailed numerical findings are available in the analysis notebook.
+### Irrigation Performance
+
+- **Drip irrigation** recorded the highest average yield at **6.62 tonnes/ha**.
+- Drip irrigation also had the highest average profit at approximately **₹219,626** per farm.
+- Flood irrigation had the highest average water usage among the irrigation methods analyzed.
+
+### Crop Performance
+
+- **Sugarcane** had the highest average yield at approximately **46.94 tonnes/ha**.
+- Sugarcane also recorded the highest average profit at approximately **₹817,187.99**.
+- Chilli recorded the second-highest average profit at approximately **₹750,878.34**.
+
+### Data Quality
+
+- The dataset contains **4,000 records and 28 variables**.
+- No duplicate records were identified.
+- Missing values were present in `Rainfall_mm`, `Soil_Moisture_pct`, and `Yield_Tonnes_Ha`.
+
 
 ## 📁 Project Structure
 
